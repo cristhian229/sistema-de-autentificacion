@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Juan",
+      "lastName": "perez",
+      "email": "juan@juan.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "username": "Pedro",
+      "lastName": "ramirez",
+      "email": "pedro@pedro.com",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "username": "Maria",
+      "lastName": "toledo",
+      "email": "maria@maria.com",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "username": "Jose",
+      "lastName": "bazo",
+      "email": "jose@jose.com",
+      "password": "123"
+    },
+    {
+      "id": 5,
+      "username": "Ana",
+      "lastName": "marquez",
+      "email": "ana@ana.com",
+      "password": "123"
+    },
+    {
+      "id": "b448",
+      "username": "cristhian",
+      "lastName": "vasquez",
+      "email": "telipikx@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "c956",
+      "username": "elsocio",
+      "lastName": "social",
+      "email": "holamundo@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "62e5",
+      "username": "keyner123",
+      "lastName": "nose",
+      "email": "jtorova5@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
